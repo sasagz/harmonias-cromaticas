@@ -1,27 +1,33 @@
 :root{
---cordefundo:#82a1d2;
+--cordefundo:#132d55;
+--cordefundo2:#6f9bdd;
+--cortexto: #000;
 }
 header {
     background-color: var(--cordefundo);
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 20;
     
 }
 
 
 body {
     font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--cortexto);
+    background-color: var(--cordefundo2);
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100;
 }
-
-
 p {
     color: black;
-    font-size: 1rem;
+    font-size: 1;
     line-height: 1.6;
-    margin: 20px;
+    margin: 20;
 }
 
 
