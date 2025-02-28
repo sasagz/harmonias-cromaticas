@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: white;
-    color: #020101;
+    color: #666666;
     margin: 0;
     padding: 0;
 }
@@ -9,9 +9,9 @@ body {
 header {
     background-color: white;
     padding: 20px;
-    color: #666666;
+    color: #0E2954; 
     text-align: center;
-    border-bottom: 3px solid #BFE1FF;
+    border-bottom: 3px solid #BFE1FF; 
 }
 
 h1, h2, h3, h4 {
@@ -44,23 +44,23 @@ ul {
     padding: 0;
     list-style-type: none;
     margin: 10px 0;
-    font-size: 1.1em;
+
 }
 
 ul li {
     padding: 5px 0;
-    color: #666666;
+
 }
 
 section {
     padding: 20px;
-    border: 1px solid #BFE1FF;
+    border: 1px solid #BFE1FF; 
     margin: 20px 0;
-    background-color: white;
+
 }
 
 a {
-    color: #BFE1FF;
+    color: #BFE1FF; 
     text-decoration: none;
 }
 
@@ -82,3 +82,4 @@ figure figcaption {
     margin-top: 5px;
     color: #666666;
 }
+
