@@ -1,28 +1,27 @@
 body {
     font-family: Arial, sans-serif;
     background-color: white;
-    color: #666666;
+    color: #666666; /* Texto cinza */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #0E2954;
+    background-color: white;
     padding: 20px;
-    color: white;
+    color: #666666; /* Texto cinza no cabeçalho */
     text-align: center;
-
-    
+    border-bottom: 3px solid #BFE1FF; /* Bordo azul bebê */
 }
 
 
 
 h1, h2, h3, h4 {
-    color: #666666;
+    color: #666666; /* Texto cinza para os títulos */
 }
 
 p {
-    color: #666666;
+    color: #666666; /* Texto cinza para os parágrafos */
     line-height: 1.6;
     padding: 10px 20px;
 }
@@ -32,54 +31,5 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
-}
-
-h3 {
-    font-size: 1.2em;
-}
-
-h4 {
-    font-size: 1em;
-}
-
-ul {
-    padding: 0;
-    list-style-type: none;
-    margin: 10px 0;
-}
-
-ul li {
-    padding: 5px 0;
-}
-
-
-section {
-    padding: 20px;
-    border: 1px solid #BFE1FF;
-    margin: 20px 0;
-}
-
-a {
-    color: #BFE1FF;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-.harm-imagens figure {
-    display: inline-block;
-    margin: 10px;
-    text-align: center;
-}
-
-figure img {
-    width: 100px;
-}
-
-figure figcaption {
-    margin-top: 5px;
-    color: #666666;
+    font-size: 0%;
 }
