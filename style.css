@@ -1,8 +1,8 @@
 :root{
 --cordefundo:#132d55;
---cordefundo2:#6f9bdd;
---cortexto: #000;
+--cortexto:#000;
 }
+
 header {
     background-color: var(--cordefundo);
     color: white;
@@ -16,7 +16,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: var(--cortexto);
-    background-color: var(--cordefundo2);
+    background-color: var(--cordefundo);
     margin: 0;
     padding: 0;
     display: flex;
