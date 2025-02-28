@@ -1,8 +1,12 @@
+:root{
+--cordefundo:#82a1d2;
+}
 header {
-    background-color: #0E2954; /* Azul escuro */
+    background-color: var(--cordefundo);
     color: white;
     text-align: center;
     padding: 20px 0;
+    
 }
 
 
@@ -57,7 +61,7 @@ section {
 }
 
 
-h2, h3, h4 {
+h1,h2, h3, h4 {
     color: #000000; 
     margin-bottom: 10px;
 }
