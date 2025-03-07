@@ -9,13 +9,9 @@ body {
 header {
     background-color: #204b91;
     padding: 20px;
-    color: #204b91; 
+    color: #ffffff; 
     text-align: center;
     border-bottom: 3px solid #BFE1FF; 
-}
-
-h1 {
-    color: #000000;
 }
 
 p {
@@ -26,11 +22,12 @@ p {
 
 h1 {
     font-size: 2em;
-    background-color: #0E2954;
+   
 }
 
 h2 {
     font-size: 1.5em;
+    background-color: #2E8A99;
 }
 
 h3 {
